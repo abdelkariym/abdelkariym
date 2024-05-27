@@ -25,9 +25,9 @@ I am software developer from Bukhara
 - How to create UX/UI designes
 
 ## 📫 How to reach me
-- **Email**: nasimdjanovich@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/karimjon-komilov)
-- **Instagram**: [@nasimdiy_official](https://instagram.com/nasimiy_official)
+- **Email**: nasimdjanovich@gmail.com
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/karimjon-komilov)
+- **Instagram**: [@nasimiy_official](https://instagram.com/nasimiy_official)
 
 ## 😄 Pronouns
 - He/Him
@@ -35,7 +35,7 @@ I am software developer from Bukhara
 ## ⚡ Fun fact
 - I sing songs and compose musics!
   
-## <h2>Skills</h2>
+## <h2> My Skills</h2>
 
 <p>
   <a href="https://skillicons.dev">
