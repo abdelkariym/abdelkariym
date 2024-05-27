@@ -1,25 +1,40 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**abdelkariym/abdelkariym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### I'm Karimjon Komilov 
+### I'm Abdulkarim Nasimiy
 
 I am software developer from Bukhara
-<br/>
-<br/>
+## 🔭 I’m currently studying on
+- [TUIT](https://tuit.uz): Tashkent University of Information Technologies 1/4
 
+## 🌱 I’m currently learning
+- **Programming Languages**: JavaScript, C++, C#
+- **Frameworks/Libraries**: React, Node.JS, .NET Framework
+- **Tools**: Figma, Adobe Photoshop, Adobe Illustrator
+
+## 👯 I’m looking to collaborate on
+- Open-source projects related to web development and UX/UI Design.
+- Building innovative tools and applications that solve real-world problems.
+
+## 🤔 I’m looking for help with
+- Improving my knowledge of UX/UI Design.
+- Contributions to my open-source projects.
+
+## 💬 Ask me about
+- Full-stack web development
+- Best practices for building desktop and web applications
+- How to create UX/UI designes
+
+## 📫 How to reach me
+- **Email**: nasimdjanovich@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/karimjon-komilov)
+- **Instagram**: [@nasimdiy_official](https://instagram.com/nasimiy_official)
+
+## 😄 Pronouns
+- He/Him
+
+## ⚡ Fun fact
+- I sing songs and compose musics!
+  
 ## <h2>Skills</h2>
 
 <p>
