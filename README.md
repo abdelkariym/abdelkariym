@@ -24,12 +24,12 @@ I am software developer from Bukhara
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,scss,visualstuido" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,scss,vc,figma,xd" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,cpp,git,github,ps,ai,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,git,github,ps,ai" />
   </a>
 </p>
 <br/>
