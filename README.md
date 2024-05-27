@@ -24,7 +24,7 @@ I am software developer from Bukhara
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,scss,vc,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,scss,vs,figma,xd" />
   </a>
 </p>
 <p>
