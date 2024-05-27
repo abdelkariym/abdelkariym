@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm Karimjon Komilov 
+
+I am software developer from Bukhara
+<br/>
+<br/>
+
+## <h2>Skills</h2>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,scss,visualstuido" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,cpp,git,github,ps,ai,figma,xd" />
+  </a>
+</p>
+<br/>
+
+### My github states:
+<div>
+<img height="150"  src="https://github-readme-stats.vercel.app/api?username=abdelkariym&show_icons=true&theme=tokyonight">
+<br>
+<img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkariym&layout=compact&lang&theme=tokyonight">
+</div>
