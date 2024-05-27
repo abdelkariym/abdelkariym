@@ -29,7 +29,7 @@ I am software developer from Bukhara
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,git,github,ps,ai,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,git,github,ps,ai,figma" />
   </a>
 </p>
 <br/>
